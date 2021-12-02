@@ -1,3 +1,4 @@
+#nu am reusit sa incarc la timp tema , cer scuze , nu se va mai repeta
 f=open("D:\Fisiere.txt",'w')
 c=str(input('Dati  sirul'))
 f.write(c)
